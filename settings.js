@@ -19,30 +19,30 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['96891103640']
-global.premium = ['96891103640']
-global.ownernomer = '96891103640'
+global.owner = ['201153408550']
+global.premium = ['201153408550']
+global.ownernomer = '201153408550'
 global.ownername = '( الـمـطـور )'
-global.botname = '( بـوت غـوجـو )'
-global.footer = '( غـوجـو )'
+global.botname = '( بـوت أيانو )'
+global.footer = '( أيانو )'
 global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
+global.region = 'USA, North America, Ohayo'
 global.sc = 'https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3'
 global.myweb = 'https://youtube.com/channel/UCPvrnWknQrgCSIeobXMP0Uw'
-global.packname = 'https://Wa.Me/+96891103640'
+global.packname = (『⚡️𝐻𝑖𝑘𝑎𝑟𝑖 𓆩💫𓆪𝐷𝑎𝑤𝑛⚡』)حقوق أيانو + نقابة 
 global.author = '[ غـوجـو ]'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!'😂'🥀','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓',
-    admin: '*「 هـذا الامـر فـقـط لـ المـشـرفـيـن 」◣*',
-    botAdmin: '*「 اعـطـنـي إشـراف لـتـفـعـيـل  الامـر 」◣*',
-    owner: '*「 هـذا الامـر فـقـط لـ الـمـالـك 」◣*',
+    admin: '*「  هـذا الامـر فـقـط لـ المـشـرفـيـن  مثل أيانو 👑 」◣*',
+    botAdmin: '*「 اعـطـنـي إشـراف لـتـفـعـيـل  الامـرك سيدي. 」◣*',
+    owner: '*「 هـذا الامـر فـقـط لـ الـمـالـك ايانوكوجي 」◣*',
     group: '*「 هـذا الامـر فـي الـمـجـمـوعـات فـقـط 」◣*',
     private: '*「 هـذا الامـر فـي الـخـاص فـقـط 」◣*',
-    bot: '*「 هـذا الامـر مـخـصـص لـ الـبـوت 」◣*',
-    wait: '*「 انـتـظـر مـن فـضـلـك 」◣*',
+    bot: '*「 هـذا الامـر مـخـصـص لـ الـبـوت ايانو 」◣*',
+    wait: '*「 انـتـظـر مـن فـضـلـك سيدي/سيدتي 」◣*',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 1000 Hours',
 }
